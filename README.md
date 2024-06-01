@@ -18,10 +18,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 # Our Team
 
-Reyes, Ken Jervis G.
-Vito Cruz, Aira Veronica
-Antonio, Joemari Shane
-Macaday, Jhemaika
-Montenegro, Job
-Cuevas, Jez Christian
-Cirpriano, Aljhon
+<br>Reyes, Ken Jervis G.
+<br>Vito Cruz, Aira Veronica
+<br>Antonio, Joemari Shane
+<br>Macaday, Jhemaika
+<br>Montenegro, Job
+<br>Cuevas, Jez Christian
+<br>Cirpriano, Aljhon
